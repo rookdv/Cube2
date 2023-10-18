@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #70c5ce;
+    background-color: #000; /* Set the background color to dark (black) */
 }
 
 canvas {
